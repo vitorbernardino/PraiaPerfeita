@@ -1,0 +1,115 @@
+{
+    "hours": [
+{
+    "swellDirection": {
+        "noaa": 187.14,
+        "sg": 187.14
+    },
+    "swellHeight": {
+        "noaa": 0.27,
+        "sg": 0.27
+    },
+    "swellPeriod": {
+        "noaa": 7.78,
+        "sg": 7.78
+    },
+    "time": "2024-08-31T22:00:00+00:00",
+    "waveDirection": {
+        "noaa": 91.64,
+        "sg": 91.64
+    },
+    "waveHeight": {
+        "noaa": 0.79,
+        "sg": 0.79
+    },
+    "windDirection": {
+        "noaa": 258.55,
+        "sg": 258.55
+    },
+    "windSpeed": {
+        "noaa": 8.82,
+        "sg": 8.82
+    }
+},
+{
+    "swellDirection": {
+        "noaa": 184.86,
+        "sg": 184.86
+    },
+    "swellHeight": {
+        "noaa": 0.24,
+        "sg": 0.24
+    },
+    "swellPeriod": {
+        "noaa": 8.76,
+        "sg": 8.76
+    },
+    "time": "2024-08-31T23:00:00+00:00",
+    "waveDirection": {
+        "noaa": 91.01,
+        "sg": 91.01
+    },
+    "waveHeight": {
+        "noaa": 0.82,
+        "sg": 0.82
+    },
+    "windDirection": {
+        "noaa": 271.47,
+        "sg": 271.47
+    },
+    "windSpeed": {
+        "noaa": 9.73,
+        "sg": 9.73
+    }
+},
+{
+    "swellDirection": {
+        "noaa": 182.57,
+        "sg": 182.57
+    },
+    "swellHeight": {
+        "noaa": 0.22,
+        "sg": 0.22
+    },
+    "swellPeriod": {
+        "noaa": 9.74,
+        "sg": 9.74
+    },
+    "time": "2024-09-01T00:00:00+00:00",
+    "waveDirection": {
+        "noaa": 90.38,
+        "sg": 90.38
+    },
+    "waveHeight": {
+        "noaa": 0.84,
+        "sg": 0.84
+    },
+    "windDirection": {
+        "noaa": 284.4,
+        "sg": 284.4
+    },
+    "windSpeed": {
+        "noaa": 10.63,
+        "sg": 10.63
+    }
+}
+],
+"meta": {
+"cost": 1,
+"dailyQuota": 10,
+"end": "2024-09-01 00:00",
+"lat": -33.792726,
+"lng": 151.289824,
+"params": [
+    "swellDirection",
+    "swellHeight",
+    "swellPeriod",
+    "waveDirection",
+    "waveHeight",
+    "windDirection",
+    "windSpeed"
+],
+"requestCount": 1,
+"start": "2024-08-22 00:00"
+}
+}
